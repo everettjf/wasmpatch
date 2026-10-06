@@ -1,5 +1,7 @@
 # WasmPatch 🧱
 
+[Discord](https://discord.gg/eGzEaP6TzR)
+
 Repository: <https://github.com/everettjf/wasmpatch>
 
 <div align="center">
